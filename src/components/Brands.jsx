@@ -9,7 +9,7 @@ import styled from 'styled-components'
 import { BrandData } from '../data'
 import { medium } from '../responsive'
 import { Link } from 'react-router-dom'
-
+ 
 const BrandContainer=styled.div`
 margin-top:30px;
 `
